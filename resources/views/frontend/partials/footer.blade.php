@@ -58,7 +58,7 @@
             @if(isset($footersettings[0]) && $footersettings[0]['footer'])
                 {{ $footersettings[0]['footer'] }}
             @else
-                © 2018 Developer Canvas Studio.
+                © 2020 Bestshine Software Solutions.
             @endif
 
             @if(isset($footersettings[0]) && $footersettings[0]['facebook'])
